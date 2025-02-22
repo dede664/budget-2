@@ -1,4 +1,4 @@
-# budget-2
+# budget
 <!DOCTYPE html>
 <html lang="fr">
 <head>
